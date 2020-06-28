@@ -1,0 +1,5 @@
+macro(add_subdirectory_avoid_diamond lib_name path_to_directory)
+if(NOT TARGET ${lib_name})
+    add_subdirectory(${path_to_directory})
+endif()
+endmacro()

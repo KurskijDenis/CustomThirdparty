@@ -1,0 +1,6 @@
+[submodule "SimpleArgumentsParser"]
+	path = SimpleArgumentsParser
+	url = https://github.com/KurskijDenis/SimpleArgumentsParser.git
+[submodule "SimpleLogger"]
+	path = SimpleLogger
+	url = https://github.com/KurskijDenis/SimpleLogger.git
